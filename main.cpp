@@ -3,7 +3,6 @@
 #include <QPainter>
 #include <QMouseEvent>
 #include <QMessageBox>
-#include <vector>
 
 const int BOARD_SIZE = 10;
 const int CELL_SIZE = 60;
