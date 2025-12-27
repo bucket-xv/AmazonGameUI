@@ -3,4 +3,4 @@ A simple UI interface of Amazon Game made in Qt Creator.
 
 ## Demo
 
-<video src="./videos/demo.mp4" width="600" controls></video>
+https://github.com/user-attachments/assets/b4a7b446-7db7-4061-8ee8-fdefb485cc7a
